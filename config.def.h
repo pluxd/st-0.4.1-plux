@@ -23,7 +23,7 @@ static unsigned int actionfps = 30;
 /* TERM value */
 static char termname[] = "st-256color";
 
-static unsigned int tabspaces = 8;
+static unsigned int tabspaces = 4;
 
 
 /* Terminal colors (16 first used in escape sequence) */
